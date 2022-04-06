@@ -1,0 +1,12 @@
+form > input {
+    background-color: rgba(125, 125, 125, 0.25);
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+    color: white;
+}
+
+.fast-explore {
+    height: 100%;
+    border-left: 1px solid rgb(125, 125, 125) ;
+}
